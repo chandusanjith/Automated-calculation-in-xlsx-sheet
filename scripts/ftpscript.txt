@@ -1,0 +1,8 @@
+cd C:\Users\chandu.s\Desktop\CARDRATE\outfile
+open 10.32.32.79
+fnsonle1
+fnsonle1
+cd /fns/e1/r/inst/003/spool/CARDRATES/in
+put C:\Users\chandu.s\Desktop\CARDRATE\outfile\cardrate.csv
+bye
+
